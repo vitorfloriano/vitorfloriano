@@ -1,18 +1,12 @@
-## Under Construction
+# Vitor Floriano - Learning and Coding 🌱
 
-# Come back later
+Welcome to my GitHub profile! Join me as I learn the art of coding and explore the vast possibilities it offers.
 
-<!--
-**vitorfloriano/vitorfloriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Soon to become a father to a beautiful girl.
+- Learning Kotlin and Android development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out!
+
+Thanks for visiting my profile! Let's embark on this coding journey together! 🚀💻
