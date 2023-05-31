@@ -5,4 +5,4 @@
 - Soon to become a father
 - Learning Kotlin and Android development
 
-I'm just as lost as you, but feel free to reach out!
+I'm just as lost as you are, but feel free to reach out!
